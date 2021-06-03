@@ -1,5 +1,5 @@
 
-![](DSC.jpeg)
+![]<img src="DSC.jpeg" style="zoom:21%;">
 
 **Contact Information**
 
