@@ -1,10 +1,12 @@
 ## Qing Zhang (张庆)
 
-##### Contact Information
+![](https://github.com/zhangqing2513/zhangqing2513.github.io/blob/main/DSC.jpeg)
+
+**Contact Information**
 
 Office: MATH 427
 
-E-mail: zhan4169[AT]purdue.edu
+E-mail: zhan4169 [AT] purdue.edu
 
 **About me:**
 
