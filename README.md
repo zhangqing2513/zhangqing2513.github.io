@@ -1,4 +1,3 @@
-## Qing Zhang (张庆)
 
 ![](DSC.jpeg)
 
