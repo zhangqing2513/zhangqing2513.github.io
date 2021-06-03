@@ -1,5 +1,5 @@
 
-<img src="DSC.jpeg" style="zoom:21%;">
+<img src="DSC.jpeg" style="zoom:21%;"/>
 
 **Contact Information**
 
