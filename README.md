@@ -1,6 +1,6 @@
 ## Qing Zhang (张庆)
 
-![](https://zhangqing2513.github.io/DSC.jpeg)
+![](DSC.jpeg)
 
 **Contact Information**
 
