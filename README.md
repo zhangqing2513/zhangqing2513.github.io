@@ -1,9 +1,9 @@
 
-<img src="DSC.jpeg" style="zoom:15%;"/>
+<img src="DSC.jpeg" style="zoom:10%;"/>
 
 **Contact Information**
 
-Office: MATH 427
+Office: MATH 904
 
 E-mail: zhan4169 [AT] purdue.edu
 
